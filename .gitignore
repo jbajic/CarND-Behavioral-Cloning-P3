@@ -1,0 +1,7 @@
+data.zip
+data/*
+data2/*
+*.tar.gz
+.venv
+.vscode
+run1
