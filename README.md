@@ -33,9 +33,9 @@ While using the provided dataset augmentation on dataset was used (adding additi
 
 The network has two layers that preprocess incoming images;
 
-1. Image Normalization:
+1. Image Normalization:<br />
 ![Normalized center image](images/norm_center.jpg)
-2. Image cropping
+2. Image cropping:<br />
 ![Cropped center image](images/cropped_center.jpg)
 
 ## 2. Solution Design Approach
